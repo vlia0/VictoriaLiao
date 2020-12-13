@@ -9,7 +9,7 @@ I am a self-taught designer using my background that ranges from the fine arts t
 ## Selected Experience
 
 **Microsoft Alumni Network / UIUX Designer**<br>
-November 2018 – Current / Redmond
+> November 2018 – Current / Redmond
 - Led a complete website redesign: decreased customer service calls in regards to website navigation by 85%,and reduced customer service calls 75% overall. Restructured the IA and conducted a full UX audit and heuristic analysis. 
 
 - We work with multiple white-label companies, and we are currently implementing a new C2C app and platform. I am the liason for all things design-related.
@@ -20,7 +20,7 @@ November 2018 – Current / Redmond
 <br>
 
 **Freelance / Designer**<br>
-July 2017 - Current / Various
+> July 2017 - Current / Various
 - Worked with small businesses as an individual design consultant to improve their web experience, brand identity, social media content. 
 
 - Conducted UX audits and heuristic analyeses to propose solutions/services, including user research, wireframing, prototyping, and user testing.
@@ -29,17 +29,17 @@ July 2017 - Current / Various
 <br>
 
 **University of Wisconsin-Madison Dept. of Neuroscience / Research Associate**<br>    
-June 2016- May 2017 / Madison
+> June 2016- May 2017 / Madison
 - Helped plan and execute experimental procedures in neuronal electrophysiology to visualize the neurochemistry of synaptic transmission and executed concluding data analysis. 
 <br>
 
 **Wisconsin Institute of Medical Research / Research Associate**<br>
-January 2015- May 2016 / Madison
+> January 2015- May 2016 / Madison
 - Collaborated with researchers to create and organize cohesive patient data analysis, assisted in data organization and analysis with various other research projects concerning stroke.
 <br>
 
 **Synology / Design Intern**<br>
-June 2013 - August 2013 / Bellevue
+> June 2013 - August 2013 / Bellevue
 - Worked on marketing materials, potential advertisements, and design guidelines. 
 <br>
 
